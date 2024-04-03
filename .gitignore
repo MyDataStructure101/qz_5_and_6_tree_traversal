@@ -1,0 +1,24 @@
+# Visual Studio or VS Code
+.vscode/
+.DS_Store/
+
+# IntellJ Products
+.idea/
+
+# CLion products
+cmake-build-debug/
+CMakeLists.txt
+
+# all the answer file that store local
+answer.html
+answer.js
+answer.cpp
+
+# excutable file
+driver
+a.out
+*.exe
+*.py
+*.html
+driver_*
+
